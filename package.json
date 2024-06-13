@@ -1,13 +1,13 @@
 {
-  "name": "dark-colored",
-  "displayName": "dark-colored",
+  "name": "acas-themes",
+  "displayName": "ACAS Dark & One Half Light",
   "publisher": "ACAutonomousSystems",
   "repository": {
-    "url": "https://github.com/AChangXD/dark-colored.git"
+    "url": "https://github.com/AC-Autonomous-Systems/ACAS-Themes"
   },
   "license": "MIT",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.90.0"
   },

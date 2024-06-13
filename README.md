@@ -1,16 +1,11 @@
-# dark-colored README
+# README
 
-## Working with Markdown
+## Inspirations
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+- [One Light Italic](https://marketplace.visualstudio.com/items?itemName=laggardkernel.vscode-theme-onelight) - I didn't love the color scheme so I tweaked it to match the color scheme in One Dark Pro.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+* [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) - Really like the color scheme in this dark mode so I elected to use this one for the dark mode.
 
-## For more information
+## License
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+MIT License - Copyright (c) 2024 AC Autonomous Systems
