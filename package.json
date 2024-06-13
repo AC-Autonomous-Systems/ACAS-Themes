@@ -1,0 +1,25 @@
+{
+  "name": "dark-colored",
+  "displayName": "dark-colored",
+  "publisher": "AC-Autonomous-Systems",
+  "repository": {
+    "url": "https://github.com/AChangXD/dark-colored.git"
+  },
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dark-colored",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-colored-color-theme.json"
+      }
+    ]
+  }
+}
