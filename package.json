@@ -1,13 +1,13 @@
 {
   "name": "dark-colored",
   "displayName": "dark-colored",
-  "publisher": "AC-Autonomous-Systems",
+  "publisher": "ACAutonomousSystems",
   "repository": {
     "url": "https://github.com/AChangXD/dark-colored.git"
   },
   "license": "MIT",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -17,9 +17,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "dark-colored",
+        "label": "One Dark Pro Darker Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-colored-color-theme.json"
+      },
+      {
+        "label": "One Half Light Italic",
+        "uiTheme": "vs",
+        "path": "./themes/one-half-light-theme.json"
       }
     ]
   }
